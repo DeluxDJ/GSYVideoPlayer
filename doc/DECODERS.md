@@ -128,7 +128,7 @@ ex_so支持的视频编码和音频编码配置可查看[编译配置文件](htt
     --enable-encoder=ac3_fixed
     --enable-decoder=atrac3 
     --enable-decoder=atrac3p 
-    --enable-encoder=eac3 
+    --enable-encoder=eac3  -s
     --enable-decoder=eac3 
     --enable-muxer=ac3 
     --enable-demuxer=ac3 
