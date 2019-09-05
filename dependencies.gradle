@@ -33,9 +33,9 @@ ext {
 
     imageLoader = '4.9.0'
 
-    gsyVideoVersion = '7.0.2'
+    gsyVideoVersion = '7.1.0'
 
-    exo_player2 = '2.10.1'
+    exo_player2 = '2.10.4'
 
     permissionsdispatcher = '4.3.0'
 
